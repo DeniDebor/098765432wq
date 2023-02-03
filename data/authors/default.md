@@ -1,5 +1,5 @@
 ---
-name: Tails Azimuth
+name: DENI DEBORA 
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
 company: Stanford University
