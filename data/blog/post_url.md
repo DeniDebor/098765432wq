@@ -7,4 +7,4 @@ summary: This post about boys
 images: ['/static/images/sparrowhawk-avatar.jpg'] 
 ---
 
-this is text 
+this is text ![justexmsskskpk](/static/images/sparrowhawk-avatar.jpg)
