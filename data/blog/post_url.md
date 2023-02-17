@@ -4,7 +4,7 @@ date: '2021-01-31'
 tags: ['hello boys']
 draft: false
 summary: This post about boys 
-images: [https://unsergrunewelt.com/wp-content/uploads/2022/10/EULE_32.jpg]
+images: ['static/images/greenworld_logo4-2.png']
 ---
 
 this is text 
